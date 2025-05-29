@@ -1,0 +1,10 @@
+#include <iostream> 
+
+using namespace std; 
+
+int main(){ 
+    
+    cout << "Bom dia galera, eu sou progammer hehe"   
+
+     ;return 0; // descobri que tem que por ";" antes e depois do return. codigo assim simpleszinho, funcionou
+}
