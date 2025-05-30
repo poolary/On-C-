@@ -1,0 +1,11 @@
+#include <iostream> 
+
+using namespace std; 
+
+int main(){ 
+    
+    cout << "Bom dia galera, eu sou progammer hehe\nTestando para o futuro\n" // endl é quebrar a linha, end line.Tbm tem o \n para quebrar a linha
+    
+     ;system("pause");
+     ;return 0;
+}
